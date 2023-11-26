@@ -1,0 +1,79 @@
+body {
+    background-image: url(https://media.discordapp.net/attachments/1000243321060470894/1173372965199560755/5a13d69a9efc0c6b08a3444498ebfa8a.png?ex=6563b7bb&is=655142bb&hm=7346523e75e296a58fbccfb321061d207306da054c5a07312e62b5f5926f5a4e&=&width=774&height=294);
+}
+
+.container { 
+    position:relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 90vh;
+}
+
+.box {
+    background-color: white;
+    width: 600px;
+    border-radius: 5px;
+}
+
+/*Imagem*/
+#imagem2 > img {
+    height: px;
+}
+#imagem {
+    position:relative;
+    display: flex;
+    flex-direction: column;
+    border: solid rgb(255, 136, 136);
+    padding: 1% ;
+    }
+
+
+#imagem > img{ 
+    width: 140px;
+    border: solid #fbe6b7;
+    z-index: 2;
+}
+
+#imagem.content {
+    font-size: 9.5px;
+}
+/*Imagem*/
+
+#nova {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+#info {
+    border: solid rgb(255, 136, 136);
+    border-style:dotted;
+    padding: 10px;
+    margin: 15px;
+    position: relative;
+}
+
+.about {
+    border: solid;
+    padding: 15px;
+    margin: 5px;
+    border-style: dashed;
+    border-color: rgba(248, 41, 82, 0.66);
+}
+
+.More {
+    color: rgb(255, 136, 136);
+}
+
+.follow {
+    color: rgb(255, 136, 136);
+}
+
+#iframe {
+    float: right;
+}
+
+.hr {
+    border: solid 2px;
+}
