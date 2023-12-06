@@ -33,10 +33,12 @@ body {
     width: 140px;
     border: solid #fbe6b7;
     z-index: 2;
+    border-radius: 5px;
 }
 
 #imagem.content {
     font-size: 9.5px;
+    border-radius: 5px;
 }
 /*Imagem*/
 
@@ -52,6 +54,7 @@ body {
     padding: 10px;
     margin: 15px;
     position: relative;
+    border-radius: 5px;
 }
 
 .about {
@@ -60,14 +63,17 @@ body {
     margin: 5px;
     border-style: dashed;
     border-color: rgba(248, 41, 82, 0.66);
+    border-radius: 5px;
 }
 
 .More {
     color: rgb(255, 136, 136);
+    border-radius: 5px;
 }
 
 .follow {
     color: rgb(255, 136, 136);
+    border-radius: 5px;
 }
 
 #iframe {
